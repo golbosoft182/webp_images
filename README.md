@@ -1,3 +1,5 @@
+# Convert bulk images type to webp faster
+
 ### 🔧Install prerequisites (once for a machine)
 
 * Once Homebrew is installed, open your terminal and run the following command to install webp:
@@ -61,4 +63,10 @@ bytes used:  header:            200  (0.4%)
     macroblocks:  |       3%|       7%|      21%|      68%|    3996
       quantizer:  |      36 |      35 |      29 |      23 |
    filter level:  |      11 |       7 |      12 |      30 |
+```   
+
+* If you want change to another filetype you can change it the type file images example like:
+
+```
+.png, .jpeg etc.
 ```   
